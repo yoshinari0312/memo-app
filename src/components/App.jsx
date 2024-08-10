@@ -9,7 +9,7 @@ function App() {
       <h1>簡単メモアプリ</h1>
       <div>
         <input
-          style={{margin: "8px"}}
+          style={{margin: "8px", width: "20vw", height: "18px", fontSize: "16px"}}
           type="text"
           ref = {textRef}
         />
